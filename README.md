@@ -57,7 +57,7 @@ left (0: Stay, 1: Left)
     ```   
     
 ### Conclusion
-We have demonstated how to used Keras to build an artificial neural network that predicts the probability that an employee will leave a company. 
+We have demonstated how to used `Keras` to build an artificial neural network that predicts the probability that an employee will leave a company. 
 To further improve the model, we tried different activation functions or optimizer functions from Keras.
-We also used GridSearch to figure out the best parameters for the classifier. 
+We also used `GridSearch` to figure out the `best parameters` for the classifier. 
 The employee retention model we built is able to predict if an employee stays or leaves with an accuracy of up to `86%`.
