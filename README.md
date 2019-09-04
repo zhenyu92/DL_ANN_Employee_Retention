@@ -37,7 +37,7 @@ left (0: Stay, 1: Left)
 ### Instructions
 1. Downloaded the [dataset](https://github.com/zhenyu92/Deep_Learning_Employee_Retention/blob/master/HR_comma_sep.csv) or from [Kaggle](https://www.kaggle.com/liujiaqi/hr-comma-sepcsv).
 2. Run and execute the [IPython](https://github.com/zhenyu92/Deep_Learning_Employee_Retention/blob/master/Deep%20Learning%20on%20Employee%20Retention%20Prediction.ipynb).
-    The following will be covered, and return a prediction.
+    The following items will be covered and explained, and eventually derive a model with best prediction.
     ```
     1 Importing Relevant Libraries
     2 Loading Raw Data
