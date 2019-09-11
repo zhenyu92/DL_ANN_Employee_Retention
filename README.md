@@ -1,4 +1,4 @@
-# Deep Learning Model to Predict Employee Retention Using Keras with TensorFlow.
+# Artificial Neural Network Model to Predict Employee Retention Using Keras with TensorFlow.
 This project is guided and inspired by [Steve Nouri](https://www.linkedin.com/in/stevenouri/). 
 
 ### Author
